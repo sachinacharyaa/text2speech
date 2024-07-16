@@ -1,6 +1,6 @@
 *************************  Note that ***************************
 
-word to voice command is available in((((( probem-3.py ))))).
+Text to Speech  is available in((((( probem-3.py ))))).
 
 You can copy the problem-3.py and can run in terminal.
 
